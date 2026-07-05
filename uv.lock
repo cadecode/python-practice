@@ -62,7 +62,7 @@ wheels = [
 ]
 
 [[package]]
-name = "learn-python"
+name = "python-practice"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
